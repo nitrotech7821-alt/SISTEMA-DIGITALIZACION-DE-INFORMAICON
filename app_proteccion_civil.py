@@ -63,9 +63,9 @@ CENTROS = [
 ]
 
 USUARIOS = {
-    "admin": {"password": "1234", "rol": "Administrador"},
-    "captura": {"password": "1234", "rol": "Capturista"},
-    "consulta": {"password": "1234", "rol": "Consulta"},
+    "admin": {"password": "Difhermosillo1611", "rol": "Administrador"},
+    "captura": {"password": "Hermosillo1611", "rol": "Capturista"},
+    "consulta": {"password": "Hermosillo1611", "rol": "Consulta"},
 }
 
 st.markdown("""
